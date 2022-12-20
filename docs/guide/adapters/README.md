@@ -274,6 +274,19 @@ _(in order of first appearance)_
   
     ![](../../images/ZigiHAT.png)
     </details>
+    
+
+  * <details>
+    <summary>Texas Instruments CC2652 AT</summary>
+  
+    Raspberry pinout compatible HAT with CC2538 and optional external antenna  
+    * [Coordinator firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.0.x/bin)  
+    * [Buy](https://www.tindie.com/products/giovannicas/zigbee-30-hat-for-raspberry/)
+  
+    ![](../../images/cc2538hat.jpg)
+    </details>
+    
+    
 
 * Development board
   * <details>
@@ -382,19 +395,6 @@ The adapters below are well-supported but use outdated chips.
     * Buy: [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20191108075039&SearchText=cc2538)
   
     ![](../../images/cc2538.jpg)
-    </details>
-
-* Raspberry Pi
-
-  * <details>
-    <summary>Texas Instruments CC2538 HAT</summary>
-  
-    Raspberry pinout compatible HAT with CC2538 and optional external antenna  
-    * [Coordinator firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.0.x/bin)  
-    * [Flashing](./flashing/flashing_the_cc2538.md)  
-    * [Buy](https://www.tindie.com/products/GiovanniCas/zigbee-hat-with-cc2538-for-raspberry/)
-  
-    ![](../../images/cc2538hat.jpg)
     </details>
   
 * Network
